@@ -1,0 +1,7 @@
+*.pyc
+*.mo
+code/static
+code/settings.py
+media
+desing/node_modules
+desing2/node_modules
